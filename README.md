@@ -1,4 +1,5 @@
 # Art-Tester
+This tool is its ability to provide an accurate representation of how your designs will look in-game. By simulating the in-game environment, you can see how your items will appear when viewed from different angles, and get a better understanding of how they will interact with other items in the game.
 
 **Features**
 1. Customize color
